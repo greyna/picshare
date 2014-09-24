@@ -1,6 +1,9 @@
-[submodule "net"]
-	path = NET
-	url = git@github.com:garciafl/NET.git
 [submodule "IHM"]
 	path = IHM
 	url = git@github.com:adoulrac/IHM.git
+[submodule "DATA"]
+	path = DATA
+	url = git@github.com:Toranos/DATA.git
+[submodule "NET"]
+	path = NET
+	url = git@github.com:garciafl/NET.git
