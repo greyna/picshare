@@ -4,6 +4,3 @@
 [submodule "IHM"]
 	path = IHM
 	url = git@github.com:adoulrac/IHM.git
-[submodule "DATA"]
-	path = DATA
-	url = git@github.com:Toranos/DATA.git
