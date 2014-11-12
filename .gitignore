@@ -25,6 +25,7 @@ local.properties
 .loadpath
 .classpath
 .project
+.gitmodules
 
 # External tool builders
 # .externalToolBuilders/
