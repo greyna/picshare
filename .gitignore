@@ -44,3 +44,11 @@ local.properties
 #
 # # TeXlipse plugin
 # .texlipse
+
+.idea/.name
+
+.idea/compiler.xml
+
+*.xml
+
+*.iml
