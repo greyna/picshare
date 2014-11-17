@@ -46,8 +46,9 @@ local.properties
 # .texlipse
 
 .idea/.name
-
+.idea
 .idea/compiler.xml
+out
 
 *.xml
 
